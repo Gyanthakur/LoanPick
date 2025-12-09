@@ -29,16 +29,17 @@ Loan Picks Dashboard is a comprehensive loan comparison platform that aggregates
 - **Secure Authentication** with Supabase Auth and Row Level Security
 - **Responsive Design** optimized for mobile, tablet, and desktop
 
-## ScreenShots
+## 📸 Screenshots
 
-<img width="1917" height="872" alt="image" src="https://github.com/user-attachments/assets/917de959-6a51-49a6-ac1a-2910c40ce0a1" />
-<img width="1917" height="873" alt="image" src="https://github.com/user-attachments/assets/0ef149be-8c62-4785-9d1d-eb17a0eccac6" />
-<img width="1917" height="869" alt="image" src="https://github.com/user-attachments/assets/0254cc84-d0a1-449f-aca7-5482bd594258" />
-<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/034ced29-aaba-4981-8045-fde708b2d7fd" />
-<img width="1917" height="872" alt="image" src="https://github.com/user-attachments/assets/ba8f5c83-7047-4701-b072-7ea62a1d127c" />
-<img width="1917" height="864" alt="image" src="https://github.com/user-attachments/assets/e83143fb-4057-4f8f-86e1-06fc47baba43" />
-<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/569951f3-591a-4b9b-9da8-2d54065cac3a" />
-
+| Page | Preview |
+|------|---------|
+| **Home** | <img width="1917" height="872" alt="Home" src="https://github.com/user-attachments/assets/917de959-6a51-49a6-ac1a-2910c40ce0a1" /> |
+| **Top 5 Loans** | <img width="1917" height="873" alt="Top5Loans" src="https://github.com/user-attachments/assets/0ef149be-8c62-4785-9d1d-eb17a0eccac6" /> |
+| **All Products** | <img width="1917" height="869" alt="All Products" src="https://github.com/user-attachments/assets/0254cc84-d0a1-449f-aca7-5482bd594258" /> |
+| **AI Assistant** | <img width="1919" height="872" alt="Ai Assistant" src="https://github.com/user-attachments/assets/034ced29-aaba-4981-8045-fde708b2d7fd" /> |
+| **Dashboard** | <img width="1917" height="872" alt="Dashboard" src="https://github.com/user-attachments/assets/ba8f5c83-7047-4701-b072-7ea62a1d127c" /> |
+| **Profile** | <img width="1917" height="864" alt="Profile" src="https://github.com/user-attachments/assets/e83143fb-4057-4f8f-86e1-06fc47baba43" /> |
+| **Footer** | <img width="1919" height="869" alt="Footer" src="https://github.com/user-attachments/assets/569951f3-591a-4b9b-9da8-2d54065cac3a" /> |
 
 ### Core Features
 
