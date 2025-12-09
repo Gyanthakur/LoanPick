@@ -132,9 +132,8 @@ DATA FLOW:
 4. Middleware intercepts requests → Refreshes tokens if needed
 5. Database enforces Row Level Security on all queries
 
-<img width="1358" height="564" alt="Architecture" src="https://github.com/user-attachments/assets/54a6bcb9-45f3-450e-b1fa-f7621076a139" />
-
 ```
+<img width="1358" height="564" alt="Architecture" src="https://github.com/user-attachments/assets/54a6bcb9-45f3-450e-b1fa-f7621076a139" />
 
 ## 📁 File Structure
 
@@ -507,10 +506,8 @@ The AI chat system uses a sophisticated grounding strategy to provide accurate, 
                             Response to User
 
 
-
-<img width="1516" height="744" alt="Architecture" src="https://github.com/user-attachments/assets/8b335691-9c2e-4f3a-b413-d6322dbfdf9c" />
-
 ```
+<img width="1516" height="744" alt="Architecture" src="https://github.com/user-attachments/assets/8b335691-9c2e-4f3a-b413-d6322dbfdf9c" />
 
 ### System Prompt Template
 
