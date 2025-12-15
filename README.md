@@ -2,6 +2,8 @@
 
 A modern, responsive Next.js web application that helps users explore and compare personalized loan products with AI-powered assistance. Built for the fintech industry with enterprise-grade architecture and user experience.
 
+
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
